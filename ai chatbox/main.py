@@ -15,10 +15,6 @@ pairs = [
         ["Hello! How can I assist you today?",]
     ], 
     [
-        r"how are you?",
-        ["I'm just a bunch of code, but thanks for asking!",]
-    ],
-    [
         r"(.*) (location|city) ?",
         ["I'm not sure where you are located. Can you tell me?",]
     ],
